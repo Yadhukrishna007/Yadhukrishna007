@@ -12,10 +12,9 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2QxZm1tdjdxZHd0OHFqaWxtM
       width="400"
     />
 
-- 🔭 I’m currently working on [Fusion](https://fusion-fe-seven.vercel.app/)
-- 🌱 I’m currently learning **NextJS , Typescript**
+- 🔭 I'm a full-stack wizard—whether it's a web or mobile app, I turn tech chaos into sleek, scalable magic
 - 👨‍💻 All of my projects are available at https://github.com/Yadhukrishna007
-- 💬 Ask me about **ReactJS,ExpressJS**
+- 💬 Ask me about **NextJS,React Native,ExpressJS**
 - 📫 How to reach me **https://www.linkedin.com/in/yadhukrishnanc/**
 
 <h3 align="left">Connect with me:</h3>
